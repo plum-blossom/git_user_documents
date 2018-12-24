@@ -1,25 +1,25 @@
 ##Git使用  
 #视频地址：http://www.56.com/u27/v_MTQ1MDg2NDk2.html  
 #视频地址：http://www.56.com/u27/v_MTQ1MDg2NDk2.html  
-#1.	git和GitHub？
-	git是版权管理工具，GitHub是源代码开发平台，有社交元素，与同行沟通交流  
-#2.	git使用
-右击打开Git Bash Here，进入C盘根目录，输入以下命令：
-$ git config --global user.name "plum"
-$ git config --global user.email "your_qq@qq.com”
-#用户名可自定义
-查看username和useremail命令：
-	$ git config –list
+#1.	git和GitHub？  
+	git是版权管理工具，GitHub是源代码开发平台，有社交元素，与同行沟通交流		  
+#2.	git使用  
+右击打开Git Bash Here，进入C盘根目录，输入以下命令：  
+$ git config --global user.name "plum"		
+$ git config --global user.email "your_qq@qq.com”		
+#用户名可自定义	
+查看username和useremail命令：	
+	$ git config –list	
 	
-查看当前目录下的所用文件命令：
-	$ ls
-进入桌面并创建文件夹名为muyun_crm命令：
-	$ cd Desktop/
-$ mkdir muyun_crm
-进入muyun_crm文件，创建仓库命令：（有.git文件夹）
-$ cd muyun_crm/
-$ git init
-添加文件到仓库命令：
+查看当前目录下的所用文件命令：	
+	$ ls	
+进入桌面并创建文件夹名为muyun_crm命令：	
+	$ cd Desktop/	
+$ mkdir muyun_crm	
+进入muyun_crm文件，创建仓库命令：（有.git文件夹）	
+$ cd muyun_crm/	
+$ git init	
+添加文件到仓库命令：	
 	#将该目录下的所用文件添加到仓库中
 		$ git add -A
 	#添加一个--文件名	
