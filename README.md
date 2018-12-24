@@ -75,7 +75,6 @@ $ git merge aa   #aa为分支名
 4.网页出现bug时，部分功能可以运行，客户在使用的同时修护bug  
 在有bug的版本下新建分支，修改bug，完成后，再合并，继续运行  
 5.删除分支 $ git branch -d aa  
-
 6.GitHub fork别人的项目  
 点击fork，会下载到你的GitHub仓库  
 7.同步别人的分支  
