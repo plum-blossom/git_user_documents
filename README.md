@@ -1,8 +1,8 @@
-##Git使用
-#视频地址：http://www.56.com/u27/v_MTQ1MDg2NDk2.html
-#视频地址：http://www.56.com/u27/v_MTQ1MDg2NDk2.html
+##Git使用  
+#视频地址：http://www.56.com/u27/v_MTQ1MDg2NDk2.html  
+#视频地址：http://www.56.com/u27/v_MTQ1MDg2NDk2.html  
 #1.	git和GitHub？
-	git是版权管理工具，GitHub是源代码开发平台，有社交元素，与同行沟通交流
+	git是版权管理工具，GitHub是源代码开发平台，有社交元素，与同行沟通交流  
 #2.	git使用
 右击打开Git Bash Here，进入C盘根目录，输入以下命令：
 $ git config --global user.name "plum"
